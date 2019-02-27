@@ -1,6 +1,6 @@
 ---
 title: Document Center
 ---
-##EDUCATION
+## EDUCATION
 
-##SKILLS AND INTEREST
+## SKILLS AND INTEREST
