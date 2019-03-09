@@ -10,9 +10,16 @@ GPA: 3.5/4.0
 BS of Electrical Engineering  
 GPA: 4.02/5.00  
 
+**Politecnico di Milano** || Aug 2017 -- Jul 2018  
+BS of Computer Engineering
+GPA: 99/110
+
 ## SKILLS AND INTEREST
 * C/C++
 * Python
+* R
+* HTML/CSS
+* Javascript
 * Embedded System
 * Linux Kernel
 * Virtualization
